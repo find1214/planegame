@@ -1,0 +1,14 @@
+{
+  "coins": 581,
+  "up": {
+    "speed": 0,
+    "hitbox": 0,
+    "life": 0,
+    "slomo": 0,
+    "bomb": 0
+  },
+  "unlocked": [
+    "BASIC"
+  ],
+  "active": "BASIC"
+}
